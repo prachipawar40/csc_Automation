@@ -1,0 +1,9 @@
+package com.thehartford.exception;
+
+public class IllegalCommandException extends Exception {
+	private static final long serialVersionUID = 1L;
+	public IllegalCommandException(){ 
+
+	}
+
+}
